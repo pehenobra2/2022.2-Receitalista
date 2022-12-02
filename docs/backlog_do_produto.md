@@ -4,7 +4,9 @@
 | Data | Versão | Descrição | Autor |
 |------| ------ | --------- | ----- |
 | 02/12/2022 | 1.0 | Primeira versão do backlog do produto | [Pedro Henrique](https://github.com/pehenobra2) |
+
 <br>
+
 ## Requisitos não funcionais
 
 N° | Classificação | Requisitos Não Funcionais
